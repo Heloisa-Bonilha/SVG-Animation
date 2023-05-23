@@ -1,0 +1,427 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#f1f2f3;display:block;z-index:1;position:relative" width="1536" height="474" preserveAspectRatio="xMidYMid" viewBox="0 0 1536 474">
+<g transform="translate(768,237) scale(1,1) translate(-768,-237)"><defs>
+  <symbol id="squares-140431444125050410043">
+  <circle cx="26.07" cy="26.07" r="24.2451" fill="inherit"></circle>
+  </symbol>
+</defs><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(24.2451 76.3851) scale(0.8309088451495966) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.9427170123306245s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9293270588653761" transform="translate(24.2451 180.66510000000002) scale(1.0506729411346238) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.401925612607611s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7922560402749244" transform="translate(24.2451 232.8051) scale(1.1877439597250756) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.964013396058341s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9001380201417493" transform="translate(24.2451 284.94509999999997) scale(1.0798619798582507) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.728474653796361s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7640216288569839" transform="translate(24.2451 337.0851) scale(1.215978371143016) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.93569113013765s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9738265019988692" transform="translate(24.2451 389.2251) scale(1.0061734980011308) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.2856478172884s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(76.3851 128.5251) scale(0.9585157269977067) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.3877663812677863s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8114078337137323" transform="translate(76.3851 180.66510000000002) scale(1.1685921662862677) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.966698384718796s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7521367951094953" transform="translate(76.3851 232.8051) scale(1.2278632048905047) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.350346721569299s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8611515888746055" transform="translate(76.3851 284.94509999999997) scale(1.1188484111253945) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.268950661252223s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(76.3851 337.0851) scale(0.9397418305862261) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.567799586455184s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7941176426136567" transform="translate(76.3851 389.2251) scale(1.1858823573863433) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.021937470633723s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7554328907482426" transform="translate(128.5251 180.66510000000002) scale(1.2245671092517574) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.879076313662157s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.784222167074839" transform="translate(128.5251 232.8051) scale(1.195777832925161) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.726755760720577s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(128.5251 284.94509999999997) scale(0.9101357206957749) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.81758250078383s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9730411895449456" transform="translate(128.5251 337.0851) scale(1.0069588104550544) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.791626903265893s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(128.5251 389.2251) scale(0.8957112500154343) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.996649339619955s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8126160998327752" transform="translate(128.5251 493.50509999999997) scale(1.1673839001672248) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.20955802893674s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9858291397342759" transform="translate(180.66510000000002 76.3851) scale(0.9941708602657241) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.74077195912882s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(180.66510000000002 128.5251) scale(0.9580062381741815) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.475770209800912s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9081931945781359" transform="translate(180.66510000000002 232.8051) scale(1.0718068054218641) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.1004779884161335s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.824555508262963" transform="translate(180.66510000000002 284.94509999999997) scale(1.155444491737037) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.439972225938078s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9489665616404408" transform="translate(180.66510000000002 337.0851) scale(1.0310334383595592) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.789648477499881s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.88394885719889" transform="translate(180.66510000000002 389.2251) scale(1.09605114280111) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.6993268905557635s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7900885864921152" transform="translate(180.66510000000002 493.50509999999997) scale(1.1899114135078848) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.1407464293605125s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(232.8051 76.3851) scale(0.8913366637669633) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.58132532716417s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7614389956502821" transform="translate(232.8051 128.5251) scale(1.218561004349718) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.525503244699934s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8815884912010838" transform="translate(232.8051 180.66510000000002) scale(1.0984115087989161) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.837149949882084s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8292147567232941" transform="translate(232.8051 232.8051) scale(1.1507852432767058) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.072706471043706s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(232.8051 284.94509999999997) scale(0.9332615967408241) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.234817867637666s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8540464399341432" transform="translate(232.8051 337.0851) scale(1.1259535600658568) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.2274689456533387s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9181325125756739" transform="translate(232.8051 493.50509999999997) scale(1.0618674874243261) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.3758160510801876s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9955770388348076" transform="translate(284.94509999999997 180.66510000000002) scale(0.9844229611651923) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.248883615274016s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(284.94509999999997 232.8051) scale(0.9689619893060615) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.361881563253379s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8145192045728098" transform="translate(284.94509999999997 284.94509999999997) scale(1.1654807954271902) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-4.50791343038599s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8680272194923984" transform="translate(284.94509999999997 337.0851) scale(1.1119727805076016) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.900387816791381s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(284.94509999999997 389.2251) scale(0.8279860524077174) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.294031560780812s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(284.94509999999997 441.3651) scale(0.8757759161459511) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.18375202816067s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(337.0851 76.3851) scale(0.7955879850405317) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.34349030707081s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8377919895438268" transform="translate(337.0851 128.5251) scale(1.1422080104561732) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.323040264545398s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7503854669381465" transform="translate(337.0851 180.66510000000002) scale(1.2296145330618535) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.026485910709244s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9404182132666301" transform="translate(337.0851 232.8051) scale(1.0395817867333699) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.0553767458482195s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9962388544147435" transform="translate(337.0851 284.94509999999997) scale(0.9837611455852565) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.424473976080763s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(337.0851 337.0851) scale(0.8954999964677348) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.899046082872907s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(337.0851 389.2251) scale(0.8501608983939031) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.873173479110722s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(337.0851 441.3651) scale(0.8323758800616989) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.055183853338093s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(337.0851 493.50509999999997) scale(0.8223120955897536) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.7407045048015204s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7732203064058545" transform="translate(389.2251 76.3851) scale(1.2067796935941455) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.892782341402462s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(389.2251 232.8051) scale(0.9735679935926664) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.173118889249896s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8428863620992324" transform="translate(389.2251 284.94509999999997) scale(1.1371136379007676) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.455389115756171s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8884337086760787" transform="translate(389.2251 337.0851) scale(1.0915662913239212) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-4.665988867341008s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7877306369035655" transform="translate(389.2251 389.2251) scale(1.1922693630964345) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.417123908279628s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.811590468309352" transform="translate(389.2251 441.3651) scale(1.168409531690648) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.77956068247345s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(389.2251 493.50509999999997) scale(0.7862873057057808) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.154898814329995s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9565655897461318" transform="translate(441.3651 180.66510000000002) scale(1.0234344102538682) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.277336604328504s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8199302000814288" transform="translate(441.3651 232.8051) scale(1.1600697999185712) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.959317141158383s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(441.3651 284.94509999999997) scale(0.8645071711956345) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.15415331591897s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7794184276569489" transform="translate(441.3651 337.0851) scale(1.200581572343051) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.902610149611565s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8471759963055938" transform="translate(441.3651 389.2251) scale(1.1328240036944062) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.955613585136012s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(441.3651 441.3651) scale(0.9477541203757377) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.226901879315694s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(441.3651 493.50509999999997) scale(0.8278709604454915) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.06415901024643s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(493.50509999999997 128.5251) scale(0.9557708934297079) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.898400606790801s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8274661224430089" transform="translate(493.50509999999997 232.8051) scale(1.152533877556991) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.883672743405512s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(493.50509999999997 284.94509999999997) scale(0.8052541704835631) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.77255226711985s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7582971564509184" transform="translate(493.50509999999997 337.0851) scale(1.2217028435490815) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.3852045714291226s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(493.50509999999997 441.3651) scale(0.786535505452622) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.7178274510319382s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.759459277809936" transform="translate(493.50509999999997 493.50509999999997) scale(1.220540722190064) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.76204464590483s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(545.6451 128.5251) scale(0.8049562638687681) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.313129461187394s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8052885439836928" transform="translate(545.6451 232.8051) scale(1.1747114560163072) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.8176467802466281s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9278950021313805" transform="translate(545.6451 284.94509999999997) scale(1.0521049978686194) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.854247670925105s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9748738256161387" transform="translate(545.6451 337.0851) scale(1.0051261743838613) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.914357146973572s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9632627098107556" transform="translate(545.6451 389.2251) scale(1.0167372901892444) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.025189218053562s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(545.6451 441.3651) scale(0.7780143964129793) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.06838162825678s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.933686817686405" transform="translate(597.7850999999999 128.5251) scale(1.046313182313595) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.215376835081203s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(597.7850999999999 180.66510000000002) scale(0.8885744488250183) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.200264400132171s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(597.7850999999999 232.8051) scale(0.830891051310866) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.218073310755635s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.826024114783521" transform="translate(597.7850999999999 284.94509999999997) scale(1.153975885216479) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.734492810042303s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(597.7850999999999 337.0851) scale(0.8353596193489234) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.690776805142357s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(597.7850999999999 389.2251) scale(0.8373897645386535) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.108948470210154s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(597.7850999999999 493.50509999999997) scale(0.8916026127289328) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.323281435794986s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(649.9251 76.3851) scale(0.8840572700843048) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.831656836236336s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7602393985564517" transform="translate(649.9251 128.5251) scale(1.2197606014435483) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.99054295959165s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9518137187990643" transform="translate(649.9251 180.66510000000002) scale(1.0281862812009357) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.215019147631578s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(649.9251 232.8051) scale(0.8028852325254581) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.33764918876654s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(649.9251 284.94509999999997) scale(0.8772626323734788) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.027105850891182s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8449635113484029" transform="translate(649.9251 337.0851) scale(1.1350364886515971) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.944063669824594s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9101245844233599" transform="translate(649.9251 389.2251) scale(1.0698754155766401) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.772915031808902s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(649.9251 441.3651) scale(0.9787812706559932) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.467616133585334s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9250485329427234" transform="translate(649.9251 493.50509999999997) scale(1.0549514670572766) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.25100143319959s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8040165676938127" transform="translate(702.0651 128.5251) scale(1.1759834323061873) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.645178124100322s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.991124991084052" transform="translate(702.0651 180.66510000000002) scale(0.9888750089159479) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-4.570719915614729s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(702.0651 232.8051) scale(0.8530075215631735) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.233530041263535s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.914224201848381" transform="translate(702.0651 284.94509999999997) scale(1.065775798151619) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.5928959141907997s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7678240820577127" transform="translate(702.0651 337.0851) scale(1.2121759179422873) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.027270575060883706s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7814543906054876" transform="translate(702.0651 389.2251) scale(1.1985456093945124) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.77121466354715s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9213533165310934" transform="translate(754.2051 76.3851) scale(1.0586466834689066) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.766007908593998s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(754.2051 180.66510000000002) scale(0.8636534693671896) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.292068457143184s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8490488389919739" transform="translate(754.2051 232.8051) scale(1.130951161008026) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.787209270879355s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(754.2051 284.94509999999997) scale(0.885926986720835) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.29130100096584s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(754.2051 337.0851) scale(0.86792837045384) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.020384476023005s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9128632313824945" transform="translate(754.2051 389.2251) scale(1.0671367686175055) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.053778487674624s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(754.2051 441.3651) scale(0.8445072200032707) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.043026736359444s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9460308860632509" transform="translate(806.3451 180.66510000000002) scale(1.033969113936749) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-21.27813574430319s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.861124108666232" transform="translate(806.3451 232.8051) scale(1.118875891333768) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.46054956420799s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(806.3451 284.94509999999997) scale(0.8660721809662686) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.679581553513031s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(806.3451 337.0851) scale(0.8014586552208051) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.1378279274678s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(806.3451 389.2251) scale(0.7945238741962426) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.746625086760848s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(806.3451 441.3651) scale(0.9443019903953664) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.385704191832513s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7741101492810394" transform="translate(806.3451 493.50509999999997) scale(1.2058898507189606) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.6807781333998912s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(858.4851 76.3851) scale(0.8948371083499193) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.152261742533409s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(858.4851 128.5251) scale(0.9447702274881532) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.834679196693429s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7813589514550685" transform="translate(858.4851 180.66510000000002) scale(1.1986410485449315) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.403428932783308s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7510158380758218" transform="translate(858.4851 232.8051) scale(1.2289841619241781) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.158031626499138s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(858.4851 284.94509999999997) scale(0.8992256495594073) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.812568896844437s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8274915280246053" transform="translate(858.4851 337.0851) scale(1.1525084719753946) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.539356061497056s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(858.4851 389.2251) scale(0.787485708723614) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.150905278233587s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9397211135739383" transform="translate(858.4851 441.3651) scale(1.0402788864260617) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.907421075793426s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(910.6251 128.5251) scale(0.8622450549421253) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.83462308085106s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7782610187279868" transform="translate(910.6251 232.8051) scale(1.2017389812720132) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.751408441610778s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(910.6251 284.94509999999997) scale(0.8184242512942133) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.788786381855434s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.885771514495354" transform="translate(910.6251 337.0851) scale(1.094228485504646) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.672521986140964s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(910.6251 389.2251) scale(0.8248907047833393) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.669666243539496s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9853077415093505" transform="translate(962.7651 180.66510000000002) scale(0.9946922584906495) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.44466993227679s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(962.7651 232.8051) scale(0.8079029320096716) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.761973289282475s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(962.7651 284.94509999999997) scale(0.9516302723558028) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.082965946435449s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(962.7651 337.0851) scale(0.8701958971356061) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.716137789180234s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.929937806125642" transform="translate(962.7651 389.2251) scale(1.050062193874358) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.613340806979048s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(962.7651 441.3651) scale(0.7919987795003752) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.67336831012132s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1014.9051 76.3851) scale(0.823237403653869) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-1.4592589090034414s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.983258218321847" transform="translate(1014.9051 128.5251) scale(0.996741781678153) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.825964626992587s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1014.9051 180.66510000000002) scale(0.8984867115447082) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.9208534948782487s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9291967977958877" transform="translate(1014.9051 232.8051) scale(1.0508032022041123) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.348120463294984s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8766749777382568" transform="translate(1014.9051 284.94509999999997) scale(1.1033250222617432) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.430736707077017s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1014.9051 337.0851) scale(0.873370450066046) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.570349019541286s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9886227561790546" transform="translate(1014.9051 389.2251) scale(0.9913772438209454) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.88351839743977s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7930277827539784" transform="translate(1067.0451 76.3851) scale(1.1869722172460215) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.448526990093934s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1067.0451 128.5251) scale(0.8430376799560586) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.360125074478638s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7845870238144861" transform="translate(1067.0451 180.66510000000002) scale(1.195412976185514) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.645691823576298s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1067.0451 232.8051) scale(0.9482575735249114) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.676014501029737s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1067.0451 284.94509999999997) scale(0.8087819986738651) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.877507023142755s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8825635596446717" transform="translate(1067.0451 337.0851) scale(1.0974364403553283) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.251829101182357s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1067.0451 389.2251) scale(0.8678608445648739) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-21.653423363845736s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.851176028671055" transform="translate(1067.0451 441.3651) scale(1.128823971328945) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-22.797356261254453s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8594980463936928" transform="translate(1067.0451 493.50509999999997) scale(1.1205019536063072) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.918306209359082s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8529480179529936" transform="translate(1119.1851000000001 180.66510000000002) scale(1.1270519820470064) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.95957465422205s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1119.1851000000001 232.8051) scale(0.8096071641731608) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.29109325588632107s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8095149477555661" transform="translate(1119.1851000000001 284.94509999999997) scale(1.1704850522444339) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.986303631754584s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8310742228039469" transform="translate(1119.1851000000001 337.0851) scale(1.148925777196053) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.10601025783406s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.907359737935528" transform="translate(1119.1851000000001 389.2251) scale(1.072640262064472) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.86942913415293s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8701216235426286" transform="translate(1171.3251 180.66510000000002) scale(1.1098783764573714) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.01615356079948s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1171.3251 232.8051) scale(0.9005076912518146) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.506880655741698s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1171.3251 284.94509999999997) scale(0.875396156259058) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.243130471528094s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1171.3251 337.0851) scale(0.847895671175429) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.320954946920559s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1171.3251 389.2251) scale(0.8119041058424098) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.744462426487184s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1171.3251 441.3651) scale(0.9041700689884492) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.652775751489894s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7975405217829619" transform="translate(1171.3251 493.50509999999997) scale(1.1824594782170381) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.572243139439447s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8606609700125132" transform="translate(1223.4651000000001 128.5251) scale(1.1193390299874868) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.634414013573537s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8999914393059754" transform="translate(1223.4651000000001 180.66510000000002) scale(1.0800085606940246) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-6.706510982932651s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1223.4651000000001 232.8051) scale(0.802098390280664) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.931127030338796s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1223.4651000000001 284.94509999999997) scale(0.8950726105150001) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.576808197334373s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.79799860139664" transform="translate(1223.4651000000001 337.0851) scale(1.18200139860336) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.75100328915747s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1223.4651000000001 389.2251) scale(0.8452777155993586) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.70062245697455s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8248623833786151" transform="translate(1223.4651000000001 441.3651) scale(1.155137616621385) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-1.4009368850103177s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7929694136184531" transform="translate(1275.6051000000002 180.66510000000002) scale(1.187030586381547) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.211975307590537s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7785013586487826" transform="translate(1275.6051000000002 232.8051) scale(1.2014986413512174) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.937552081214069s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.846872673674536" transform="translate(1275.6051000000002 284.94509999999997) scale(1.133127326325464) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.16603516092133s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1275.6051000000002 337.0851) scale(0.8726731680361108) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-1.4915150598236837s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1275.6051000000002 389.2251) scale(0.7830903255714863) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.948497201397526s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8403035433601995" transform="translate(1275.6051000000002 441.3651) scale(1.1396964566398005) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.548773066853348s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1327.7451 128.5251) scale(0.810172957670019) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.83206631067566s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1327.7451 180.66510000000002) scale(0.9622042588691857) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.63283756549143s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1327.7451 232.8051) scale(0.8039250535993835) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.00085837069372s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9110011355832262" transform="translate(1327.7451 284.94509999999997) scale(1.0689988644167738) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.6575272867640765s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8041379612308701" transform="translate(1327.7451 337.0851) scale(1.1758620387691299) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-9.462452620035489s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8810036136532267" transform="translate(1327.7451 389.2251) scale(1.0989963863467733) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.974173162358754s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7804452805736721" transform="translate(1327.7451 441.3651) scale(1.1995547194263279) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.4030655702133s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1379.8851000000002 180.66510000000002) scale(0.954192053282973) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.574767132930943s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1379.8851000000002 232.8051) scale(0.914934819942802) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-12.706973289381295s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8994507080296672" transform="translate(1379.8851000000002 284.94509999999997) scale(1.0805492919703328) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-3.6702117806671266s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9291197611830917" transform="translate(1379.8851000000002 337.0851) scale(1.0508802388169083) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.431197431117205s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1379.8851000000002 389.2251) scale(0.9024078925466539) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-24.48776683017435s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8591444714139749" transform="translate(1379.8851000000002 441.3651) scale(1.120855528586025) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.72971369544224s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9180911874834212" transform="translate(1432.0251 128.5251) scale(1.0619088125165788) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-14.017864651980538s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9161218076554198" transform="translate(1432.0251 180.66510000000002) scale(1.0638781923445801) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.71970323513533s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1432.0251 232.8051) scale(0.792732282661724) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.933576548595648s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7791480850933519" transform="translate(1432.0251 284.94509999999997) scale(1.200851914906648) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-13.550596240854851s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1432.0251 337.0851) scale(0.9290683120659167) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-2.9085245109995994s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1432.0251 389.2251) scale(0.8073186042616002) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.31953790451386s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8877829584382937" transform="translate(1432.0251 441.3651) scale(1.0922170415617063) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.016724601845233s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9503922519778947" transform="translate(1484.1651000000002 180.66510000000002) scale(1.0296077480221053) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-7.822850336423976s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7546158893504857" transform="translate(1484.1651000000002 232.8051) scale(1.2253841106495142) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.175035575387746s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8746273115180503" transform="translate(1484.1651000000002 284.94509999999997) scale(1.1053726884819497) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.309598399223077s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8344061382731334" transform="translate(1484.1651000000002 337.0851) scale(1.1455938617268666) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-1.9250681793530289s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1484.1651000000002 389.2251) scale(0.8978061890009574) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.406203749692786s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9583540017617238" transform="translate(1484.1651000000002 441.3651) scale(1.0216459982382762) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-18.29257000928758s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9236336412074424" transform="translate(1536.3051 76.3851) scale(1.0563663587925576) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-4.372085958613292s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.8339112535775997" transform="translate(1536.3051 128.5251) scale(1.1460887464224003) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-19.76936367711375s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8884415596867976" transform="translate(1536.3051 180.66510000000002) scale(1.0915584403132024) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-16.71884482952737s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.9842169694988473" transform="translate(1536.3051 232.8051) scale(0.9957830305011527) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-4.226267805455574s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1536.3051 284.94509999999997) scale(0.9017077456887552) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-23.557215992674056s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1536.3051 337.0851) scale(0.8286077254179126) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.444544622933511s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1536.3051 389.2251) scale(0.7876289888138768) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-5.7117022741525245s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="0.7808497323976964" transform="translate(1536.3051 441.3651) scale(1.1991502676023036) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-0.2520155453778816s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.9007272808095095" transform="translate(1536.3051 493.50509999999997) scale(1.0792727191904905) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-11.315333291936474s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1588.4451000000001 128.5251) scale(0.8645783983737743) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.847665226158327s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8647438115395001" transform="translate(1588.4451000000001 180.66510000000002) scale(1.1152561884605) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-8.50172001864043s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#141287" fill-opacity="1" transform="translate(1588.4451000000001 232.8051) scale(0.8901983780164477) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-15.253611412150503s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.7928330267112675" transform="translate(1588.4451000000001 284.94509999999997) scale(1.1871669732887324) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-17.83893665265247s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="0.8078661276489849" transform="translate(1588.4451000000001 337.0851) scale(1.172133872351015) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-20.886449398396717s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use><use href="#squares-140431444125050410043" fill="#a795f6" fill-opacity="1" transform="translate(1588.4451000000001 493.50509999999997) scale(0.8032492255680345) translate(-24.2451 -24.2451)">
+  <animate attributeName="fill" repeatCount="indefinite" dur="25s" begin="-10.873537041000835s" values="#141287;#a795f6" keyTimes="0;1"></animate>
+</use></g>
+</svg>
